@@ -25,6 +25,7 @@
             <version>2.0</version>
         </dependency>
 
+        <!--根据表创建类,需要连接数据库-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
